@@ -1,5 +1,5 @@
 # Hello
-x 10
+x 34
 y 20
 p x+y
 def a
