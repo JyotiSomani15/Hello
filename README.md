@@ -4,6 +4,7 @@ y 20
 p x+y
 def a
 p x+y
+p "hello"
 end
 a 10
 b 20
