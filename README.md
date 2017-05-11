@@ -1,0 +1,4 @@
+# Hello
+x 10
+y 20
+p x+y
